@@ -1,8 +1,7 @@
 ---
 description: >-
-  High APY stable pools on ETH on a Solidly fork with a novel price-increasing
-  onchain treasury building system called Fetch Bonus. MINTS token earns from
-  next evolution ENS, NFT & predictions dapps.
+  High APY stable pools on ETH & the next evolution in ENS, NFTs & DeFi
+  infrastructure.
 ---
 
 # MintyDAO

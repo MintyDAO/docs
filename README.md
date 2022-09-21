@@ -1,7 +1,5 @@
 ---
-description: >-
-  High APY stable pools on ETH & the next evolution in ENS, NFTs & DeFi
-  infrastructure.
+description: The next evolution in ENS, NFTs & DeFi infrastructure.
 ---
 
 # MintyDAO

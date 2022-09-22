@@ -37,3 +37,4 @@
 
 * [Minty Chains](minty-chains.md)
 * [Minty Worlds](minty-worlds.md)
+* [Pico Market-Cap](pico-market-cap.md)

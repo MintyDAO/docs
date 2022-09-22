@@ -42,7 +42,7 @@ MINTS token earns from these next evolution ENS, NFT, DeFi 3.0 & other infrastru
 
 9\. Minty Chains: MintyDAO can move MINTS treasury to its own ZKR L2 when available.
 
-10\. Minty Worlds: protocol wars for world economies - vote with MINTS for 3rd party world assets
+10\. Minty Worlds: protocol wars for game economies - vote with MINTS & earn 3rd party game assets.
 
 ## DeFi 3.0
 

@@ -1,5 +1,5 @@
 # Minty Worlds
 
-Over time, MintyDAO can continue to link its partnered gamified NFT projects across its chains.
+As PaaS payment to MintyDAO, game economy tokens might be earned by locking MINTS.
 
-These may include play, vote & build-to-earn worlds according to Minty's DAO vote results.
+Users of partnered games can vote for new features using locked MINTS, called mintsNFTs.

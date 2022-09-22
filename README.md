@@ -8,7 +8,7 @@ description: The next evolution in ENS, NFTs & DeFi infrastructure.
 
 MINTS token earns from these next evolution ENS, NFT, DeFi 3.0 & other infrastructural dapps:
 
-**Short Term - By Nov 2022:**
+**Short Term - Target Launch by Nov 2022:**
 
 1\. Vitalik's ENS fix-proposal is to pay recurring demand-based fees to reduce domain squatting.
 

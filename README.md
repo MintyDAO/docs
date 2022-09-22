@@ -8,7 +8,7 @@ description: The next evolution in ENS, NFTs & DeFi infrastructure.
 
 MINTS token earns from next evolution ENS, NFT, DeFi 3.0 & other infrastructural dapps.
 
-Vitalik's ENS fix-proposal is to pay recurring demand-based recurring fees to prevent squatters.
+Vitalik's ENS fix-proposal is to pay recurring demand-based fees to reduce domain squatting.
 
 Minty's NFT Royalties fix is to add a similar recurring Harberger Tax, proposed by 0xfoobar.
 

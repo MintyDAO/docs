@@ -12,7 +12,7 @@ Vitalik's ENS fix-proposal is to pay recurring demand-based fees to reduce domai
 
 NFT royalties problem: fees are being circumvented by SudoSwap AMM / NFT DEX pools.
 
-NFT Solution: MINTS royalties via a similar recurring fee - Harberger Tax - proposed by 0xfoobar.
+NFT Solution: MINTS royalties via non-circumventable Harberger Tax - proposed by 0xfoobar.
 
 For DeFi, Minty greatly expanded from a Solidly fork (Andre Cronje's DEX) on ETH.
 

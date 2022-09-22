@@ -28,7 +28,7 @@ MINTS token earns from these next evolution ENS, NFT, DeFi 3.0 & other infrastru
 
 &#x20; D. Minty pools use the same safe & time tested Solidly audited code.
 
-4\. DEX & NFT bets. Augur style bet options, but open to anyone & settled by DEX & oracles.
+4\. DEX & NFT bets. Augur style bet options, but open to anyone & settled by DEX.
 
 **Longer Term Roadmap** - after Nov 2022 (DAO can vote on priorities):
 

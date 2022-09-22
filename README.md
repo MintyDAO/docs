@@ -34,11 +34,11 @@ MINTS token earns from these next evolution ENS, NFT, DeFi 3.0 & other infrastru
 
 5\. Treasury vote & bribing. I.e., a much bigger protocol war.
 
-6\. Launchpad for DeFi & NFT, proving Fetch & Harberger Tax.
+6\. Launchpad with access to Minty's growing partners' user-base.
 
 7\. NFT Gamification - e.g. card games and more, for any NFT collection.
 
-8\. Platform as a Service, giving all of the above.
+8\. Platform as a Service. Proving Fetch & votable treasury for other tokens.
 
 9\. Minty Chains: MintyDAO can move MINTS treasury to its own ZKR L2 when available.
 

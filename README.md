@@ -8,19 +8,25 @@ description: The next evolution in ENS, NFTs & DeFi infrastructure.
 
 MINTS token earns from these next evolution ENS, NFT, DeFi 3.0 & other infrastructural dapps:
 
-Vitalik's ENS fix-proposal is to pay recurring demand-based fees to reduce domain squatting.
+1\. Vitalik's ENS fix-proposal is to pay recurring demand-based fees to reduce domain squatting.
 
-NFT royalties problem: fees are being circumvented by SudoSwap AMM / NFT DEX pools.
+2\. NFT royalties problem: fees are being circumvented by SudoSwap AMM / NFT DEX pools.
 
-NFT Solution: MINTS royalties via non-circumventable Harberger Tax - proposed by 0xfoobar.
+&#x20; NFT solution: MINTS royalties via non-circumventable Harberger Tax - proposed by 0xfoobar.
 
-For DeFi, Minty greatly expanded from a Solidly fork (Andre Cronje's DEX) on ETH.
+3\. DeFi: Minty greatly expanded from a Solidly fork (Andre Cronje's DEX) on ETH.
 
-MintyDAO adds a novel price-increasing onchain treasury building system called Fetch Bonus.&#x20;
+&#x20; A. MintyDAO adds a novel price-increasing onchain treasury building system called Fetch Bonus.&#x20;
 
-High stable pools APY is available on Minty DEX & DeFi stack in USDC/USDT [Liquidity here](https://mintydao.io/liquidity)
+&#x20; B. High stable pools APY is available on Minty DEX & DeFi stack in USDC/USDT [Liquidity here](https://mintydao.io/liquidity)
 
-These pools use the same Solidly audited code.
+&#x20; C. These pools use the same Solidly audited code.
+
+4\. DEX & NFT bets. Augur style bet options, but settled by DEX & oracles.
+
+5\. Launchpad & Platform as a Service
+
+6\. Minty Chains & Worlds
 
 ## DeFi 3.0
 

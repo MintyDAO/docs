@@ -11,3 +11,5 @@ Minty has both voting & bribing, so, like Solidly, it combines Curve & Convex.
 It also enables voting on treasury itself.\
 \
 MintyDAO therefore goes much father than Solidly, which doesn't even have treasury, let alone onchain contract-controlled via vote & bribe treasury, which gives further value to MINTS.
+
+Weekly emissions is scheduled onchain automatically using Chainlink Keepers contracts, and this will be announced by Chainlink marketing as an integration, scheduled for Oct 6 2022.

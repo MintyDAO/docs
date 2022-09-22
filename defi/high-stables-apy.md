@@ -1,6 +1,8 @@
 # High Stables APY
 
-Minty has low slippage stable pools using Solidly audited contracts.\
+Minty has low slippage stable pools using Solidly audited contracts.
+
+Users can earn APY in USDC/USDT [Liquidity pools here](https://defi.mintydao.io/liquidity/).\
 \
 Total pools emissions will be 14% per week (decaying 2%/week). &#x20;
 

@@ -4,9 +4,10 @@
 
 ## ENS & NFT
 
-* [ENS & NFT fixes](ens-and-nft/ens-and-nft-1.md)
-* [Vitalik's fix ENS proposal](group-1/g1-page-1/README.md)
-* [NFT royalties, gauranteed](group-1/g1-page-1.md)
+* [ENS & NFT Fixes](ens-and-nft/ens-and-nft-1.md)
+* [Vitalik's ENS Fix Proposal](ens-and-nft/vitaliks-ens-fix-proposal.md)
+* [NFT Royalties](ens-and-nft/nft-royalties.md)
+* [Need MINTS](ens-and-nft/need-mints.md)
 
 ## DeFi
 
@@ -28,5 +29,11 @@
 
 ## Launchpad
 
-* [Minty DeFi](launchpad/minty-defi.md)
+* [Platform as a Service](launchpad/platform-as-a-service.md)
+* [Minty DeFi for All](launchpad/minty-defi-for-all.md)
 * [NFT Gamification](launchpad/nft-gamification.md)
+
+***
+
+* [Minty Chains](minty-chains.md)
+* [Minty Worlds](minty-worlds.md)

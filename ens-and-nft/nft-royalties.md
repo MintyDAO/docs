@@ -28,4 +28,4 @@ If the value is too high, the tax they pay is higher at e.g. 10-20% per year.
 
 It’s said Harberger Tax is difficult to make simple, but MintyDAO made it 1 click simple.
 
-Status: launching by Oct 2022
+Launch target: by November 2022

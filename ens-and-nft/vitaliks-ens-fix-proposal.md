@@ -22,7 +22,7 @@ If a $100M bid is rejected, the current rejecting holder pays 0.05%, or $50K/yea
 
 If the bid is accepted, the new holder of the $100M domain buyer pays $500K/year to MintyDAO.&#x20;
 
-MintyDAO will have such decentralized domains available by October 2022.&#x20;
+MintyDAO plan to have such decentralized domains available by November 2022.&#x20;
 
 Over 75% of revenues goes to MINTS pools, burning, and veNFT lockers.&#x20;
 

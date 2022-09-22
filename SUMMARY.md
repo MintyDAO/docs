@@ -19,8 +19,8 @@
 
 ## MINTS token
 
-* [MINTS Supply](mints-token/mints-supply.md)
 * [MINTS Utility](mints-token/mints-utility.md)
+* [MINTS Supply](mints-token/mints-supply.md)
 
 ## Bets
 

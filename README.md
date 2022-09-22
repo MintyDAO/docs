@@ -46,5 +46,64 @@ MintyDAO therefore goes much father than Solidly, which doesn't even have treasu
 
 ### Voting on Treasury
 
+{% content-ref url="group-1/g1-page-1/" %}
+[g1-page-1](group-1/g1-page-1/)
+{% endcontent-ref %}
+
+* 1
+* 2
+
+1. 1
+2. 2
+
+* [ ] 1
+* [ ] 2
+
+> quote 1
+
+{% code title="a.js" overflow="wrap" lineNumbers="true" %}
+```javascript
+// Some code eg
+a.b();
+```
+{% endcode %}
+
+|   |   |   |
+| - | - | - |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+
+{% tabs %}
+{% tab title="First Tab" %}
+
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
+
+<details>
+
+<summary>a</summary>
+
+b
+
+</details>
+
+$$
+f(x) = x * e^{2 pi i \xi x}
+$$
+
+{% embed url="https://mintydao.io" %}
+MintyDAO.io
+{% endembed %}
 
 
+
+<figure><img src=".gitbook/assets/MintyDAO.png" alt=""><figcaption><p>Minty logo</p></figcaption></figure>
+
+
+
+{% embed url="https://www.youtube.com/watch?v=dQw4w9WgXcQ" %}

@@ -10,4 +10,4 @@
 
 * [G1 Page 1](group-1/g1-page-1/README.md)
   * [Sub Page 1](group-1/g1-page-1/sub-page-1.md)
-* [G1 Page 2](group-1/g1-page-2.md)
+* [G1 Page 2](group-1/g1-page-1.md)

@@ -6,7 +6,7 @@ description: The next evolution in ENS, NFTs & DeFi infrastructure.
 
 ## **Executive Summary**
 
-MINTS token earns from next evolution ENS, NFT, DeFi 3.0 & other infrastructural dapps.
+MINTS token earns from these next evolution ENS, NFT, DeFi 3.0 & other infrastructural dapps:
 
 Vitalik's ENS fix-proposal is to pay recurring demand-based fees to reduce domain squatting.
 

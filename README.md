@@ -8,6 +8,10 @@ description: The next evolution in ENS, NFTs & DeFi infrastructure.
 
 MINTS token earns from next evolution ENS, NFT, DeFi 3.0 & other infrastructural dapps.
 
+Vitalik's ENS fix-proposal is to pay recurring demand-based recurring fees to prevent squatters.
+
+Minty's NFT Royalties fix is to add a similar recurring Harberger Tax, proposed by 0xfoobar.
+
 For DeFi, Minty greatly expanded from a Solidly fork (Andre Cronje's DEX) on ETH.
 
 Mints adds a novel price-increasing onchain treasury building system called Fetch Bonus.&#x20;
@@ -50,7 +54,7 @@ Minty will launch Vitalik's proposal to fix ENS with recurring demand based pric
 
 ## NFT Royalties Fix
 
-Minty will launch an NFT royalties fix that aligns artist incentive using 0xfoobar's popular Harberger Tax proposal in a way that doesn't interrupt OS or SudoSwap, and can't be bypassed by those, or by wrapped NFTs, or in any way.  Launch target by Nov 2022.
+Minty will launch an NFT royalties fix that aligns artist incentive using 0xfoobar's popular Harberger Tax proposal in a way that doesn't interrupt OS or SudoSwap, and can't be bypassed by wrapped NFTs, or in any way.  Launch target by Nov 2022.
 
 {% content-ref url="ens-and-nft/nft-royalties.md" %}
 [nft-royalties.md](ens-and-nft/nft-royalties.md)

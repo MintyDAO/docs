@@ -26,7 +26,7 @@ MINTS token earns from these next evolution ENS, NFT, DeFi 3.0 & other infrastru
 
 &#x20; C. Emissions vote & bribing. I.e. protocol wars.
 
-&#x20; C. Minty pools use the same safe & time tested Solidly audited code.
+&#x20; D. Minty pools use the same safe & time tested Solidly audited code.
 
 4\. DEX & NFT bets. Augur style bet options, but open to anyone & settled by DEX & oracles.
 
@@ -38,7 +38,7 @@ MINTS token earns from these next evolution ENS, NFT, DeFi 3.0 & other infrastru
 
 7\. NFT Gamification - e.g. card games and more, for any NFT collection.
 
-8\. Platform as a Service. Proving Fetch & votable treasury for other tokens.
+8\. Platform as a Service: provide Fetch & dao treasury voting for other token projects.
 
 9\. Minty Chains: MintyDAO can move MINTS treasury to its own ZKR L2 when available.
 

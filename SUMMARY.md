@@ -6,7 +6,7 @@
 
 * [Fix Proposals](ens-and-nft/ens-and-nft-1.md)
 * [Vitalik's ENS Fix-Proposal](ens-and-nft/vitaliks-ens-fix-proposal.md)
-* [0xfoobar's NFT Royalties Fix](ens-and-nft/0xfoobars-nft-royalties-fix.md)
+* [0xfoobar's NFT Royalties Fix](ens-and-nft/nft-royalties.md)
 * [Need MINTS](ens-and-nft/need-mints.md)
 
 ## DeFi

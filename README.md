@@ -58,8 +58,8 @@ Minty will launch [Vitalik's proposal to fix ENS](https://twitter.com/vitalikbut
 
 Minty will launch an NFT royalties fix that aligns artist incentive using [0xfoobar's popular Harberger Tax proposal](https://twitter.com/0xfoobar/status/1563614234390704129?s=20\&t=KQoDGfY9K5PIiihI3Vc2\_g) in a way that doesn't interrupt OS or SudoSwap, and can't be bypassed by wrapped NFTs, or in any way.  Launch target by Nov 2022.
 
-{% content-ref url="ens-and-nft/0xfoobars-nft-royalties-fix.md" %}
-[0xfoobars-nft-royalties-fix.md](ens-and-nft/0xfoobars-nft-royalties-fix.md)
+{% content-ref url="ens-and-nft/nft-royalties.md" %}
+[nft-royalties.md](ens-and-nft/nft-royalties.md)
 {% endcontent-ref %}
 
 ## NFT Gamification

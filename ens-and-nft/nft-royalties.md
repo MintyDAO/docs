@@ -1,24 +1,22 @@
-# Royalties
+# 0xfoobar's NFT Royalties Fix
 
 As [0xfoobar explained](https://twitter.com/0xfoobar/status/1563614234390704129?s=20\&t=KQoDGfY9K5PIiihI3Vc2\_g) in his NFT royalties problem and solution blog tweet:
 
 ### Problem
 
-NFT market suffers from alignment incentives issues.
+The NFT market suffers from alignment incentives issues.
 
-Exchanges like SudoSwap removed royalties from artists.
+The SudoSwap NFT DEX removed royalties from artists.
 
-This removes incentives and funding especially for ongoing project dev.
+This guts incentives and funding for ongoing project dev.
 
-Transfer fees can’t be injected without breaking decentralizaiton and standards.
-
-High volumes previously also didn’t mean collectors benefitted, when floor prices were low.
+Transfer fees can’t be injected without breaking decentralization and standards, and wrapped NFTs can bypass those fees anyhow.
 
 ### Solution
 
-Harberger Tax
+Harberger Tax.
 
-Harberger Tax is a popular proposal to replace lose volume earnings The Variable substack
+Harberger Tax is a popular proposal to replace lose volume earnings The Variable substack.
 
 Revenue from the tax can be shared by collectors, so volume, not only price, helps them.
 

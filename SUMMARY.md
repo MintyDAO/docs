@@ -24,8 +24,8 @@
 
 ## Bets
 
-* [DEX Bets](bets/dex-bets.md)
-* [NFT Bets with Chainlink](bets/nft-bets-with-chainlink.md)
+* [DEX & NFT Bets](bets/dex-and-nft-bets.md)
+* [Any Bets with Chainlink](bets/any-bets-with-chainlink.md)
 
 ## Launchpad
 

@@ -5,8 +5,8 @@
 ## ENS & NFT
 
 * [Fix Proposals](ens-and-nft/ens-and-nft-1.md)
-* [Vitalik](ens-and-nft/vitalik.md)
-* [Royalties](ens-and-nft/royalties.md)
+* [Vitalik](ens-and-nft/vitaliks-ens-fix-proposal.md)
+* [Royalties](ens-and-nft/nft-royalties.md)
 * [Need MINTS](ens-and-nft/need-mints.md)
 
 ## DeFi
@@ -19,8 +19,8 @@
 
 ## MINTS
 
-* [Utility](mints/utility.md)
-* [Supply](mints/supply.md)
+* [Utility](mints-token/mints-utility.md)
+* [Supply](mints-token/mints-supply.md)
 
 ## Bets
 

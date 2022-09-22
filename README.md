@@ -50,16 +50,16 @@ Minty will launch popular fix proposals to ENS & NFT to remove squatters & impro
 
 Minty will launch Vitalik's proposal to fix ENS with recurring demand based pricing to reduce the damage done by purely negative-value domain squatters. Launch target by Nov 2022.
 
-{% content-ref url="ens-and-nft/vitalik.md" %}
-[vitalik.md](ens-and-nft/vitalik.md)
+{% content-ref url="ens-and-nft/vitaliks-ens-fix-proposal.md" %}
+[vitaliks-ens-fix-proposal.md](ens-and-nft/vitaliks-ens-fix-proposal.md)
 {% endcontent-ref %}
 
 ## NFT Royalties Fix
 
 Minty will launch an NFT royalties fix that aligns artist incentive using 0xfoobar's popular Harberger Tax proposal in a way that doesn't interrupt OS or SudoSwap, and can't be bypassed by wrapped NFTs, or in any way.  Launch target by Nov 2022.
 
-{% content-ref url="ens-and-nft/royalties.md" %}
-[royalties.md](ens-and-nft/royalties.md)
+{% content-ref url="ens-and-nft/nft-royalties.md" %}
+[nft-royalties.md](ens-and-nft/nft-royalties.md)
 {% endcontent-ref %}
 
 ## NFT Gamification
@@ -84,8 +84,8 @@ NFTS may be free for people holding enough MINTS. This can be e.g. a $200 value 
 
 MINTS emissions are 15x slower inflation in the first 6 months than Bitcoin & Solidly (constant emissions model). Ie, Minty has a DEX lke Curve, with low slippage stable pools.
 
-{% content-ref url="mints/supply.md" %}
-[supply.md](mints/supply.md)
+{% content-ref url="mints-token/mints-supply.md" %}
+[mints-supply.md](mints-token/mints-supply.md)
 {% endcontent-ref %}
 
 

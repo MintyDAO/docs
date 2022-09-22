@@ -2,7 +2,7 @@
 description: Demand-based capped recurring fees to prevent negative-value squatting
 ---
 
-# Vitalik's ENS Fix Proposal
+# Vitalik
 
 As Vitalik implied, ENS is somewhat broken in that it sold its most valuable domains to squatters without any recurring demand based prices.&#x20;
 

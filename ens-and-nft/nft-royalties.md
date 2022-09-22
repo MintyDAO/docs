@@ -2,7 +2,7 @@
 description: Broken artists incentives fixed with 0xfoobar's Harberger Tax proposal
 ---
 
-# NFT Royalties
+# Royalties
 
 Problem: NFT market suffers from alignment incentives issues
 

@@ -1,6 +1,6 @@
 # Onchain Treasury Voting
 
-Treasury grows with price & supply as people buy MINTS using [Fetch Bonus.](https://mintydao.io/fetch)
+Treasury grows with price & supply as people buy MINTS using [Fetch Bonus.](https://defi.mintydao.io/fetch)
 
 This treasury is onchain and controlled controlled.\
 \

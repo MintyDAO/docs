@@ -12,4 +12,4 @@ MINTS lockers can earn bribes as protocols vie for MINTS to pair with their toke
 \
 I.e., MINTS / TOKEN
 
-These votes may be even more valuable & profitable to bribe-farm than emissions voting.
+These votes may be even more valuable & profitable to bribe-mine than emissions voting.

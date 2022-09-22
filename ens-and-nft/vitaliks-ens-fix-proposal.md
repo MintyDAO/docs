@@ -6,7 +6,7 @@ description: Demand-based capped recurring fees to prevent negative-value squatt
 
 As [Vitalik implied](https://twitter.com/vitalikbuterin/status/1568070721753989120), ENS is somewhat broken in that it sold its most valuable domains to squatters without any recurring demand based prices.&#x20;
 
-Squatters provide only negative value and make important, brand related and useful domains often inaccessible, and any windfalls squatters earn isn’t a useful market game in any way.
+Squatters provide only negative value and make important, brand related and useful domains often inaccessible, and any windfalls squatters earn isn’t a very useful market game in any way.
 
 Vitalik recommends recurring demand based pricing for domain names (e.g. pay 0.5% tax from the purchase price, yearly).&#x20;
 
@@ -14,7 +14,7 @@ The proposal is less aggressive than the Harberger Tax;&#x20;
 
 The proposal dampens the tax a holder pays after rejecting a high bid and gives 4 weeks for the holder to accept or reject.&#x20;
 
-If accepted, the new holder pays 0.5% from the price paid. If the holders reject, they pay some capped or dampened amount from this 0.5%.&#x20;
+If accepted, the new holder pays 0.5% from the price paid. If the holders reject, they pay some capped or dampened amount from this 0.5%.
 
 MintyDAO proposes 1/10 dampening, so instead of 0.5%, just 0.05%.&#x20;
 

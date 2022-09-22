@@ -44,7 +44,7 @@ It also enables voting on treasury itself.\
 \
 MintyDAO therefore goes much father than Solidly, which doesn't even have treasury, let alone onchain contract-controlled via vote & bribe treasury, which gives further value to MINTS.
 
-## Voting on Treasury
+### Voting on Treasury
 
 
 

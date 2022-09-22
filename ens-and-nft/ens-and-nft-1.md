@@ -1,4 +1,4 @@
-# ENS & NFT
+# ENS & NFT fixes
 
 Vitalik has suggested ENS needs a major change.
 

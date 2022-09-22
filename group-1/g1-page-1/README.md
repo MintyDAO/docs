@@ -1,7 +1,31 @@
 ---
-description: pd 1
+description: Demand-based capped recurring fees to prevent negative-value squatting
 ---
 
-# G1 Page 1
+# Vitalik's fix ENS proposal
 
-pc 1
+As Vitalik implied, ENS is somewhat broken in that it sold its most valuable domains to squatters without any recurring demand based prices.&#x20;
+
+Squatters provide only negative value and make useless domains often inaccessible, and any windfalls they earn isn’t a useful market game in any way, as Vitalik explains in his blog.&#x20;
+
+Vitalik recommends recurring demand based pricing for domain names (e.g. pay 0.5% tax from the purchase price, yearly).&#x20;
+
+The proposal is less aggressive than the Harberger Tax;&#x20;
+
+The proposal dampens the tax a holder pays after rejecting a high bid and gives 4 weeks for the holder to accept or reject.&#x20;
+
+If accepted, the new holder pays 0.5% from the price paid. If the holders reject, they pay some capped or dampened amount from this 0.5%.&#x20;
+
+MintyDAO proposes 1/10 dampening, so instead of 0.5%, just 0.05%.&#x20;
+
+If a $100M bid is rejected, the current rejecting holder pays 0.05%, or $50K/year to continue renting the domain.&#x20;
+
+If the bid is accepted, the new holder of the $100M domain buyer pays $500K/year to MintyDAO.&#x20;
+
+MintyDAO will have such decentralized domains available by October 2022.&#x20;
+
+Over 75% of revenues goes to MINTS pools, burning, and veNFT lockers.&#x20;
+
+DAO voters can pair MINTS pools with public goods & other project tokens.&#x20;
+
+Sub-domain holders can earn recurring royalties, as well, and again, over 85% goes to MINTS pools, burning, and holders.

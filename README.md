@@ -2,9 +2,15 @@
 description: The next evolution in ENS, NFTs & DeFi infrastructure.
 ---
 
-# MintyDAO
+# MintyDAO Overview
 
-**Executive Summary**: High APY stable pools on ETH on a Solidly fork with a novel price-increasing onchain treasury building system called Fetch Bonus. MINTS token earns from next evolution ENS, NFT & predictions dapps.
+**Executive Summary**: High APY stable pools on ETH on a Solidly (Andre Cronje's DEX) fork with a novel price-increasing onchain treasury building system called Fetch Bonus. MINTS token earns from next evolution ENS, NFT & predictions dapps, as per Vitalik's fix proposal for ENS.
+
+1. Vitalik's proposal to fix ENS with recurring demand based pricing to remove negative-value squatters. Launch target by Nov 2022.
+2. 0xfoobar's proposal to fix NFT royalties for artists, using Harberger Tax. This tax can not be bypassed on OS or SudoSwap; People can always take your NFT at the price at which you pay tax. Launching with multiple NFTs & bounties. Launch target by Nov 2022.
+3. Minty is launching partnered green powered NFT collections & linking gamified worlds in celebration of the electricity reduction in ETH’s move to PoS. These will feature the above Harberger Tax royalties solution. They will be free for people holding enough MINTS. This can be e.g. a $200 value + $200 per referral for bounties, and will help advertise the system.
+4. MINTS can be earned and bought on its own Solidly fork. MINTS emissions are 10x slower inflation in the first 6 months than Bitcoin & Solidly (constant emissions model). Ie, Minty has a DEX lke Curve, with low slippage stable pools.
+5. Minty DEX has its own innovative treasury (controlled by contracts) + innovative & simple 1-click treasury-building “Fetch” feature (with price-increasing mechanism - opposite of OHM bonds).
 
 ## DeFi 3.0
 
@@ -46,64 +52,5 @@ MintyDAO therefore goes much father than Solidly, which doesn't even have treasu
 
 ### Voting on Treasury
 
-{% content-ref url="group-1/g1-page-1/" %}
-[g1-page-1](group-1/g1-page-1/)
-{% endcontent-ref %}
-
-* 1
-* 2
-
-1. 1
-2. 2
-
-* [ ] 1
-* [ ] 2
-
-> quote 1
-
-{% code title="a.js" overflow="wrap" lineNumbers="true" %}
-```javascript
-// Some code eg
-a.b();
-```
-{% endcode %}
-
-|   |   |   |
-| - | - | - |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-
-{% tabs %}
-{% tab title="First Tab" %}
-
-{% endtab %}
-
-{% tab title="Second Tab" %}
-
-{% endtab %}
-{% endtabs %}
-
-<details>
-
-<summary>a</summary>
-
-b
-
-</details>
-
-$$
-f(x) = x * e^{2 pi i \xi x}
-$$
-
-{% embed url="https://mintydao.io" %}
-MintyDAO.io
-{% endembed %}
 
 
-
-<figure><img src=".gitbook/assets/MintyDAO.png" alt=""><figcaption><p>Minty logo</p></figcaption></figure>
-
-
-
-{% embed url="https://www.youtube.com/watch?v=dQw4w9WgXcQ" %}

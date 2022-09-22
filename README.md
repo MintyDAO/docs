@@ -20,7 +20,7 @@ MINTS token earns from these next evolution ENS, NFT, DeFi 3.0 & other infrastru
 
 3\. DeFi: Minty greatly expanded from a Solidly fork (Andre Cronje's DEX) on ETH.
 
-&#x20; A. MintyDAO adds a novel price-increasing onchain treasury building system called Fetch Bonus.&#x20;
+&#x20; A. MintyDAO adds a novel price-increasing onchain treasury building system called [Fetch Bonus](https://defi.mintydao.io/fetch).&#x20;
 
 &#x20; B. High stable pools APY is available on Minty DEX & DeFi stack in USDC/USDT [Liquidity here](https://mintydao.io/liquidity)
 

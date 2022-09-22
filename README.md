@@ -16,7 +16,7 @@ NFT Solution: MINTS royalties via non-circumventable Harberger Tax - proposed by
 
 For DeFi, Minty greatly expanded from a Solidly fork (Andre Cronje's DEX) on ETH.
 
-Mints adds a novel price-increasing onchain treasury building system called Fetch Bonus.&#x20;
+MintyDAO adds a novel price-increasing onchain treasury building system called Fetch Bonus.&#x20;
 
 High stable pools APY is available on Minty DEX & DeFi stack in USDC/USDT [Liquidity here](https://mintydao.io/liquidity)
 
@@ -48,7 +48,7 @@ Minty will launch popular fix proposals to ENS & NFT to remove squatters & impro
 
 ## Vitalik's ENS Fix Proposal
 
-Minty will launch Vitalik's proposal to fix ENS with recurring demand based pricing to reduce the damage done by purely negative-value domain squatters. Launch target by Nov 2022.
+Minty will launch [Vitalik's proposal to fix ENS](https://twitter.com/vitalikbuterin/status/1568070721753989120) with recurring demand based pricing to reduce the damage done by purely negative-value domain squatters. Launch target by Nov 2022.
 
 {% content-ref url="ens-and-nft/vitaliks-ens-fix-proposal.md" %}
 [vitaliks-ens-fix-proposal.md](ens-and-nft/vitaliks-ens-fix-proposal.md)
@@ -56,10 +56,10 @@ Minty will launch Vitalik's proposal to fix ENS with recurring demand based pric
 
 ## NFT Royalties Fix
 
-Minty will launch an NFT royalties fix that aligns artist incentive using 0xfoobar's popular Harberger Tax proposal in a way that doesn't interrupt OS or SudoSwap, and can't be bypassed by wrapped NFTs, or in any way.  Launch target by Nov 2022.
+Minty will launch an NFT royalties fix that aligns artist incentive using [0xfoobar's popular Harberger Tax proposal](https://twitter.com/0xfoobar/status/1563614234390704129?s=20\&t=KQoDGfY9K5PIiihI3Vc2\_g) in a way that doesn't interrupt OS or SudoSwap, and can't be bypassed by wrapped NFTs, or in any way.  Launch target by Nov 2022.
 
-{% content-ref url="ens-and-nft/nft-royalties.md" %}
-[nft-royalties.md](ens-and-nft/nft-royalties.md)
+{% content-ref url="ens-and-nft/0xfoobars-nft-royalties-fix.md" %}
+[0xfoobars-nft-royalties-fix.md](ens-and-nft/0xfoobars-nft-royalties-fix.md)
 {% endcontent-ref %}
 
 ## NFT Gamification

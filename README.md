@@ -8,11 +8,15 @@ description: The next evolution in ENS, NFTs & DeFi infrastructure.
 
 MINTS token earns from these next evolution ENS, NFT, DeFi 3.0 & other infrastructural dapps:
 
+**Short Term - By Nov 2022:**
+
 1\. Vitalik's ENS fix-proposal is to pay recurring demand-based fees to reduce domain squatting.
 
 2\. NFT royalties problem: fees are being circumvented by SudoSwap AMM / NFT DEX pools.
 
 &#x20; NFT solution: MINTS royalties via non-circumventable Harberger Tax - proposed by 0xfoobar.
+
+**Live Now:**
 
 3\. DeFi: Minty greatly expanded from a Solidly fork (Andre Cronje's DEX) on ETH.
 
@@ -20,13 +24,25 @@ MINTS token earns from these next evolution ENS, NFT, DeFi 3.0 & other infrastru
 
 &#x20; B. High stable pools APY is available on Minty DEX & DeFi stack in USDC/USDT [Liquidity here](https://mintydao.io/liquidity)
 
-&#x20; C. These pools use the same Solidly audited code.
+&#x20; C. Emissions vote & bribing. I.e. protocol wars.
 
-4\. DEX & NFT bets. Augur style bet options, but settled by DEX & oracles.
+&#x20; C. Minty pools use the same safe & time tested Solidly audited code.
 
-5\. Launchpad & Platform as a Service
+4\. DEX & NFT bets. Augur style bet options, but open to anyone & settled by DEX & oracles.
 
-6\. Minty Chains & Worlds
+**Longer Term Roadmap** - after Nov 2022 (DAO can vote on priorities):
+
+5\. Treasury vote & bribing. I.e., a much bigger protocol war.
+
+6\. Launchpad for DeFi & NFT, proving Fetch & Harberger Tax.
+
+7\. NFT Gamification - e.g. card games and more, for any NFT collection.
+
+8\. Platform as a Service, giving all of the above.
+
+9\. Minty Chains: MintyDAO can move MINTS treasury to its own ZKR L2 when available.
+
+10\. Minty Worlds: protocol wars for world economies - vote with MINTS for 3rd party world assets
 
 ## DeFi 3.0
 

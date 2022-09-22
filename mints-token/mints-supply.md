@@ -21,11 +21,11 @@ This way, if MINTS holders are in both pools, then can get & earn from all emiss
 
 33% Core DEX Pools, DAO directed (with team oversight, at first)&#x20;
 
-22% community, marketing & partnerships, all burned 6 months&#x20;
+22% community, marketing, dev & partnerships, all burned 6 months&#x20;
 
-6% seeders, all burned for first 6 months&#x20;
+6% seeders max, all burned for first 6 months&#x20;
 
-6% team, dev, all burned for first 6 months
+6% team max, all burned for first 6 months
 
 ## TREASURY
 
@@ -33,7 +33,11 @@ DeFi 3.0 Instead of downward price pressure from treasury building (as in DeFi 2
 
 ## FETCH
 
-MINTS are also created as people buy via Fetch Bonus, but these are locked, and drive up the price with each buy. The team earns from these sales, so they're incentivized to not dump tokens.
+MINTS price & supply grows as people buy via Fetch Bonus, but these MINTS are locked. The team earns from these sales, so they're incentivized to not dump tokens.
+
+While Fetch may increase supply, burns from ENS, NFT, and other revenue may decrease it.
+
+
 
 From every ETH used to buy MINTS via Fetch&#x20;
 
@@ -43,9 +47,9 @@ From every ETH used to buy MINTS via Fetch&#x20;
 
 22% to community, dev, marketing and partnerships&#x20;
 
-6% seeders&#x20;
+6% seeders max
 
-6% team
+6% team max
 
 ## Aligned Incentives
 

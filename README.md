@@ -60,6 +60,14 @@ This treasury grows along with price & supply with every token purchased via [Fe
 [fetch-bonus.md](defi/fetch-bonus.md)
 {% endcontent-ref %}
 
+## Stables APY
+
+Concentrated emissions to core pools help ensure [Liquidity Providers](https://mintydao.io/liquiity) earn well with low inflation.
+
+{% content-ref url="defi/high-stables-apy.md" %}
+[high-stables-apy.md](defi/high-stables-apy.md)
+{% endcontent-ref %}
+
 ## ENS & NFT
 
 Minty will launch popular fix proposals to ENS & NFT to remove squatters & improve artist incentive alignments.
@@ -84,13 +92,7 @@ Minty will launch an NFT royalties fix that aligns artist incentive using [0xfoo
 [nft-royalties.md](ens-and-nft/nft-royalties.md)
 {% endcontent-ref %}
 
-## NFT Gamification
 
-Minty will launch partnered green powered NFT collections & link gamified worlds in celebration of the electricity reduction in ETH’s move to PoS.  Launch target by Nov 2022.
-
-{% content-ref url="launchpad/nft-gamification.md" %}
-[nft-gamification.md](launchpad/nft-gamification.md)
-{% endcontent-ref %}
 
 ## Need MINTS
 
@@ -102,20 +104,22 @@ NFTS may be free for people holding enough MINTS. This can be e.g. a $200 value 
 [need-mints.md](ens-and-nft/need-mints.md)
 {% endcontent-ref %}
 
-## MINTS Supply
+## MINTS Utility & Supply
 
-MINTS emissions are 15x slower inflation in the first 6 months than Bitcoin & Solidly (constant emissions model). Ie, Minty has a DEX lke Curve, with low slippage stable pools.
+MINTS emissions are 15x slower inflation in the first 6 months than Bitcoin & Solidly (constant emissions model). Ie, Minty has a DEX like Curve, with low slippage stable pools.
 
-{% content-ref url="mints-token/mints-supply.md" %}
-[mints-supply.md](mints-token/mints-supply.md)
+{% content-ref url="mints-token/mints-utility.md" %}
+[mints-utility.md](mints-token/mints-utility.md)
 {% endcontent-ref %}
 
 
 
-Launch bonuses may still be available. [Fetch Bonus Now](https://mintydao.io/fetch)
+## Launchpad & More
 
-{% content-ref url="defi/fetch-bonus.md" %}
-[fetch-bonus.md](defi/fetch-bonus.md)
+Minty will launch partnered green powered NFT collections & link gamified worlds in celebration of the electricity reduction in ETH’s move to PoS.  Launch target by Nov 2022.
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-Read on, anon
+## Read on, anon

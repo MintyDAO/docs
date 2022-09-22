@@ -24,7 +24,7 @@ MINTS token earns from these next evolution ENS, NFT, DeFi 3.0 & other infrastru
 
 &#x20; B. High stable pools APY is available on Minty DEX & DeFi stack in USDC/USDT [Liquidity here](https://mintydao.io/liquidity)
 
-&#x20; C. Emissions vote & bribing. I.e. protocol wars.
+&#x20; C. Emissions voting & bribing. I.e. protocol wars.
 
 &#x20; D. Minty pools use the same safe & time tested Solidly audited code.
 
@@ -32,7 +32,7 @@ MINTS token earns from these next evolution ENS, NFT, DeFi 3.0 & other infrastru
 
 **Longer Term Roadmap** - after Nov 2022 (DAO can vote on priorities):
 
-5\. Treasury vote & bribing. I.e., a much bigger protocol war.
+5\. Treasury voting & bribing. I.e., a much bigger protocol war.
 
 6\. Launchpad with access to Minty's growing partners' user-base.
 

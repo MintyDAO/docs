@@ -24,8 +24,8 @@
 
 ## Bets
 
-* [DEX & NFT Bets](bets/dex-and-nft-bets.md)
-* [Any Bets with Chainlink](bets/any-bets-with-chainlink.md)
+* [DEX & NFT Bets](bets/dex-bets.md)
+* [Any Bets with Chainlink](bets/nft-bets-with-chainlink.md)
 
 ## Launchpad
 
@@ -35,6 +35,6 @@
 
 ***
 
-* [Minty Chains](minty-chains.md)
 * [Minty Worlds](minty-worlds.md)
+* [Minty Chains](minty-chains.md)
 * [Pico Market-Cap](pico-market-cap.md)

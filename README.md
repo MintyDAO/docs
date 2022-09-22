@@ -10,7 +10,9 @@ MINTS token earns from next evolution ENS, NFT, DeFi 3.0 & other infrastructural
 
 Vitalik's ENS fix-proposal is to pay recurring demand-based fees to reduce domain squatting.
 
-Minty's NFT Royalties fix is to add a similar recurring Harberger Tax, proposed by 0xfoobar.
+NFT royalties problem: fees are being circumvented by SudoSwap AMM / NFT DEX pools.
+
+NFT Solution: MINTS royalties via a similar recurring fee - Harberger Tax - proposed by 0xfoobar.
 
 For DeFi, Minty greatly expanded from a Solidly fork (Andre Cronje's DEX) on ETH.
 

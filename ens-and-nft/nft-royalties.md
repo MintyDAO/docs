@@ -1,22 +1,20 @@
+---
+description: Broken artists incentives fixed with 0xfoobar's Harberger Tax proposal
+---
+
 # Royalties
 
-As [0xfoobar](https://twitter.com/0xfoobar/status/1563614234390704129?s=20\&t=KQoDGfY9K5PIiihI3Vc2\_g) explained in his NFT royalties problem and solution blog tweet:
+Problem: NFT market suffers from alignment incentives issues
 
-### Problem
+Exchanges like SudoSwap removed royalties from artists
 
-NFT market suffers from alignment incentives issues.
+This is seen as a major incentives alignment issue, especially for ongoing project dev
 
-Exchanges like SudoSwap removed royalties from artists.
+Transfer fees can’t be injected without breaking decentralizaiton and standards
 
-This is seen as a major incentives alignment issue, especially for ongoing project dev.
+High volumes previously also didn’t mean collectors benefitted, when floor prices were low
 
-Transfer fees can’t be injected without breaking decentralizaiton and standards.
-
-High volumes previously also didn’t mean collectors benefitted, when floor prices were low.
-
-### Solution
-
-Harberger Tax
+Solution: A twist on the Harberger Tax
 
 Harberger Tax is a popular proposal to replace lose volume earnings The Variable substack
 

@@ -1,2 +1,0 @@
-# MINTS Utility
-

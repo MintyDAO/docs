@@ -4,9 +4,9 @@
 
 ## ENS & NFT
 
-* [ENS & NFT Fixes](ens-and-nft/ens-and-nft-1.md)
-* [Vitalik's ENS Fix Proposal](ens-and-nft/vitaliks-ens-fix-proposal.md)
-* [NFT Royalties](ens-and-nft/nft-royalties.md)
+* [Fix Proposals](ens-and-nft/ens-and-nft-1.md)
+* [Vitalik](ens-and-nft/vitalik.md)
+* [Royalties](ens-and-nft/royalties.md)
 * [Need MINTS](ens-and-nft/need-mints.md)
 
 ## DeFi
@@ -17,10 +17,10 @@
 * [MINTS emissions voting](defi/mints-emissions-voting.md)
 * [Onchain Treasury Voting](defi/onchain-treasury-voting.md)
 
-## MINTS token
+## MINTS
 
-* [MINTS Utility](mints-token/mints-utility.md)
-* [MINTS Supply](mints-token/mints-supply.md)
+* [Utility](mints/utility.md)
+* [Supply](mints/supply.md)
 
 ## Bets
 

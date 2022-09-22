@@ -2,10 +2,11 @@
 
 * [MintyDAO Overview](README.md)
 
-## MINTS token
+## ENS & NFT
 
-* [MINTS Utility](mints-token/mints-utility.md)
-* [MINTS Supply](mints-token/mints-supply.md)
+* [ENS & NFT fixes](ens-and-nft/ens-and-nft-1.md)
+* [Vitalik's fix ENS proposal](group-1/g1-page-1/README.md)
+* [NFT royalties, gauranteed](group-1/g1-page-1.md)
 
 ## DeFi
 
@@ -15,11 +16,10 @@
 * [MINTS emissions voting](defi/mints-emissions-voting.md)
 * [Onchain Treasury Voting](defi/onchain-treasury-voting.md)
 
-## ENS & NFT
+## MINTS token
 
-* [ENS & NFT fixes](ens-and-nft/ens-and-nft-1.md)
-* [Vitalik's fix ENS proposal](group-1/g1-page-1/README.md)
-* [NFT royalties, gauranteed](group-1/g1-page-1.md)
+* [MINTS Supply](mints-token/mints-supply.md)
+* [MINTS Utility](mints-token/mints-utility.md)
 
 ## Bets
 

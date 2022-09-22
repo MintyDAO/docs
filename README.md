@@ -16,7 +16,7 @@ NFT Solution: MINTS royalties via non-circumventable Harberger Tax - proposed by
 
 For DeFi, Minty greatly expanded from a Solidly fork (Andre Cronje's DEX) on ETH.
 
-MintyDAO adds a novel price-increasing onchain treasury building system called Fetch Bonus.&#x20;
+Mints adds a novel price-increasing onchain treasury building system called Fetch Bonus.&#x20;
 
 High stable pools APY is available on Minty DEX & DeFi stack in USDC/USDT [Liquidity here](https://mintydao.io/liquidity)
 

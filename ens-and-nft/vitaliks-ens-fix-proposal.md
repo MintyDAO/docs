@@ -6,7 +6,7 @@ description: Demand-based capped recurring fees to prevent negative-value squatt
 
 As [Vitalik implied](https://twitter.com/vitalikbuterin/status/1568070721753989120), ENS is somewhat broken in that it sold its most valuable domains to squatters without any recurring demand based prices.&#x20;
 
-Squatters provide only negative value and make important, brand related and useful domains often inaccessible, and any windfalls squatters earn isn’t a very useful market game in any way.
+Squatters provide much negative value and often make key domain names unused & inaccessible, while large windfalls squatters earn isn’t a very useful market game.
 
 Vitalik recommends recurring demand based pricing for domain names (e.g. pay 0.5% tax from the purchase price, yearly).&#x20;
 

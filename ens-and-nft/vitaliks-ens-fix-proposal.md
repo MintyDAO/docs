@@ -8,13 +8,13 @@ As [Vitalik implied](https://twitter.com/vitalikbuterin/status/15680707217539891
 
 Squatters provide much negative value and often make key domain names unused & inaccessible, while large windfalls squatters earn isn’t a very useful market game.
 
-Vitalik recommends recurring demand based pricing for domain names (e.g. pay 0.5% tax from the purchase price, yearly).&#x20;
+Vitalik recommends recurring demand based pricing for domain names (e.g. pay 0.5% tax from the declared value, yearly).&#x20;
 
 The proposal is less aggressive than the Harberger Tax;&#x20;
 
 The proposal dampens the tax a holder pays after rejecting a high bid and gives 4 weeks for the holder to accept or reject.&#x20;
 
-If accepted, the new holder pays 0.5% from the price paid. If the holders reject, they pay some capped or dampened amount from this 0.5%.
+If accepted, the new holder pays 0.5% from the price paid, or higher declared value. If the holder rejects, they pay some capped or dampened amount from this 0.5%.
 
 MintyDAO proposes 1/10 dampening, so instead of 0.5%, just 0.05%.&#x20;
 

@@ -20,7 +20,7 @@ MintyDAO proposes 1/10 dampening, so instead of 0.5%, just 0.05%.&#x20;
 
 If a $100M bid is rejected, the current rejecting holder pays 0.05%, or $50K/year to continue renting the domain.&#x20;
 
-If the bid is accepted, the new holder of the $100M domain buyer pays $500K/year to MintyDAO.&#x20;
+If the bid is accepted, the new holder of the $100M domain buyer pays $500K/year in the form of burned MINTS he locks away. If he withdraws all of these MINTS, the fees per time are deducted, and then anyone can take the domain for for $0.
 
 MintyDAO plan to have such decentralized domains available by November 2022.&#x20;
 
@@ -28,4 +28,4 @@ Over 75% of revenues goes to MINTS pools, burning, and veNFT lockers.&#x20;
 
 DAO voters can pair MINTS pools with public goods & other project tokens.&#x20;
 
-Sub-domain holders can earn recurring royalties, as well, and again, over 85% goes to MINTS pools, burning, and holders.
+Sub-domain holders can earn recurring royalties, as well, and again, over 75% goes to MINTS pools, burning, and holders.

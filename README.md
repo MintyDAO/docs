@@ -8,27 +8,33 @@ description: The next evolution in ENS, NFTs & DeFi infrastructure.
 
 MINTS token earns from these next evolution ENS, NFT, DeFi 3.0 & other infrastructural dapps:
 
-**Short Term - Target Launch by Nov 2022:**
-
-1\. Vitalik's ENS fix-proposal is to pay recurring demand-based fees to reduce domain squatting.
-
-2\. NFT royalties problem: fees are being circumvented by SudoSwap AMM / NFT DEX pools.
-
-&#x20; NFT solution: MINTS royalties via non-circumventable Harberger Tax - proposed by 0xfoobar.
-
 **Live Now:**
 
-3\. DeFi: Minty greatly expanded from a Solidly fork (Andre Cronje's DEX) on ETH.
+1\. DEX & DeFi: Minty greatly expanded from a Solidly fork (Andre Cronje's DEX) on ETH.
 
-&#x20; A. MintyDAO adds a novel price-increasing onchain treasury building system called [Fetch Bonus](https://defi.mintydao.io/fetch).&#x20;
+&#x20; A. High stable pools APY is available on Minty DEX & DeFi stack in USDC/USDT [Liquidity here](https://mintydao.io/liquidity).
 
-&#x20; B. High stable pools APY is available on Minty DEX & DeFi stack in USDC/USDT [Liquidity here](https://mintydao.io/liquidity)
+&#x20; B. Novel price-increasing onchain treasury-building system with launch-time [Fetch Bonus](defi/fetch-bonus.md).
 
-&#x20; C. Emissions voting & bribing. I.e. protocol wars.
+&#x20; C. Team starts with 0 tokens. Can't dump or rug. Earns from token sales lock Fetch Bonus sales.
 
-&#x20; D. Minty pools use the same safe & time tested Solidly audited code.
+&#x20; D. Earn from emissions voting & bribing. I.e. protocol wars.
 
-4\. DEX & NFT bets. Augur style bet options, but open to anyone & settled by DEX.
+&#x20; E. Minty pools use the same safe & time tested Solidly audited code.
+
+&#x20; F. 91,000% total APY = 14%/week at start, concentrated to core MINTS & stables pools.
+
+&#x20; G. 15x Slower inflation than Bitcoin & Curve in the first 6 months.
+
+2\. DEX Bets. Augur style bet options, but open to anyone & settled by DEX.
+
+**Short Term - Target Launch by Nov 2022:**
+
+3\. Vitalik's ENS fix-proposal is to pay recurring demand-based fees to reduce domain squatting.
+
+4\. NFT royalties problem: fees are being circumvented by SudoSwap AMM / NFT DEX pools.
+
+&#x20; NFT solution: MINTS royalties via non-circumventable Harberger Tax - proposed by 0xfoobar.
 
 **Longer Term Roadmap** - after Nov 2022 (DAO can vote on priorities):
 

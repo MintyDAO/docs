@@ -12,7 +12,7 @@ MINTS token earns from these next evolution ENS, NFT, DeFi 3.0 & other infrastru
 
 1\. DEX & DeFi: Minty greatly expanded from a Solidly fork (Andre Cronje's DEX) on ETH.
 
-&#x20; A. High stable pools APY with low slippage. Learn how to earn in [DeFi 3.0](defi/defi-3.0.md)
+&#x20; A. High stable pools APY with low slippage incoming. Get concentrated APY in [DeFi 3.0](defi/defi-3.0.md).
 
 &#x20; B. Novel price-increasing onchain treasury-building system with launch-time [Fetch Bonus](defi/fetch-bonus.md).
 
@@ -22,7 +22,7 @@ MINTS token earns from these next evolution ENS, NFT, DeFi 3.0 & other infrastru
 
 &#x20; E. Minty pools use the same safe & time tested Solidly audited code.
 
-&#x20; F. 228% and 768% APY in USDT/USDC and MINTS/ETH pools (40% or 14%/week emissions)
+&#x20; F. Concentrated APY at 14%/week emissions with 2%/week decay.
 
 &#x20; G. 15x Slower inflation than Bitcoin & Curve in the first 6 months.
 

@@ -12,7 +12,7 @@ MINTS token earns from these next evolution ENS, NFT, DeFi 3.0 & other infrastru
 
 1\. DEX & DeFi: Minty greatly expanded from a Solidly fork (Andre Cronje's DEX) on ETH.
 
-&#x20; A. High stable pools APY with low slippage incoming. Get concentrated APY in [DeFi 3.0](defi/defi-3.0.md).
+&#x20; A. Solidly DEX pools with low slippage. Get tokens ahead of APY start via [DeFi 3.0](defi/defi-3.0.md).
 
 &#x20; B. Novel price-increasing onchain treasury-building system with launch-time [Fetch Bonus](defi/fetch-bonus.md).
 

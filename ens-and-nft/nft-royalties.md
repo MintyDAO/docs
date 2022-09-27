@@ -14,18 +14,18 @@ Transfer fees can’t be injected without breaking decentralization and standard
 
 ### Solution
 
-Harberger Tax.
+Harberger Fees.
 
-Harberger Tax is a popular proposal to replace lose volume earnings The Variable substack.
+Harberger Fees are a popular proposal to replace lose volume earnings The Variable substack.
 
 Revenue from the tax can be shared by collectors, so volume, not only price, helps them.
 
-Holders evaluate their property (NFT), and pay Harberger Tax based on that.
+Holders evaluate their property (NFT), and pay Harberger Fees based on that.
 
 If the value is low, holders risk anyone buying it from them at that price at any time.
 
 If the value is too high, the tax they pay is higher at e.g. 10-20% per year.
 
-It’s said Harberger Tax is difficult to make simple, but MintyDAO made it 1 click simple.
+It’s said Harberger Fees are difficult on UX, but MintyDAO has a 1 click simple UX incoming.
 
 Launch target: by November 2022

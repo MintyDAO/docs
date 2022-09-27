@@ -30,11 +30,11 @@ MINTS token earns from these next evolution ENS, NFT, DeFi 3.0 & other infrastru
 
 **Short Term - Target Launch by Nov 2022:**
 
-3\. Vitalik's ENS fix-proposal is to pay recurring demand-based fees to reduce domain squatting.
+3\. [Vitalik's ENS fix-proposal](https://twitter.com/vitalikbuterin/status/1568070721753989120) is to pay recurring demand-based fees to reduce domain squatting.
 
 4\. NFT royalties problem: fees are being circumvented by SudoSwap AMM / NFT DEX pools.
 
-&#x20; NFT solution: MINTS royalties via non-circumventable Harberger Tax - proposed by 0xfoobar.
+&#x20; [NFT solution](https://twitter.com/0xfoobar/status/1563614234390704129): MINTS royalties via non-circumventable Harberger Fees - proposed by 0xfoobar.
 
 **Longer Term Roadmap** - after Nov 2022 (DAO can vote on priorities):
 
@@ -92,7 +92,7 @@ Minty will launch [Vitalik's proposal to fix ENS](https://twitter.com/vitalikbut
 
 ## 0xfoobar's NFT Royalties Fix
 
-Minty will launch an NFT royalties fix that aligns artist incentive using [0xfoobar's popular Harberger Tax proposal](https://twitter.com/0xfoobar/status/1563614234390704129?s=20\&t=KQoDGfY9K5PIiihI3Vc2\_g) in a way that doesn't interrupt OS or SudoSwap, and can't be bypassed by wrapped NFTs, or in any way.  Launch target by Nov 2022.
+Minty will launch an NFT royalties fix that aligns artist incentive using [0xfoobar's popular Harberger Fees proposal](https://twitter.com/0xfoobar/status/1563614234390704129?s=20\&t=KQoDGfY9K5PIiihI3Vc2\_g) in a way that doesn't interrupt OS or SudoSwap, and can't be bypassed by wrapped NFTs, or in any way.  Launch target by Nov 2022.
 
 {% content-ref url="ens-and-nft/nft-royalties.md" %}
 [nft-royalties.md](ens-and-nft/nft-royalties.md)

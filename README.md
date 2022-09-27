@@ -6,7 +6,7 @@ description: The next evolution in ENS, NFTs & DeFi infrastructure.
 
 ## **Executive Summary**
 
-MINTS token earns from these next evolution ENS, NFT, DeFi 3.0 & other infrastructural dapps:
+MINTS tokens will earn from these Minty evolution of ENS, NFT & DeFi infrastructure:
 
 **Live Now:**
 

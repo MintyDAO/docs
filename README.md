@@ -6,49 +6,69 @@ description: The next evolution in ENS, NFTs & DeFi infrastructure.
 
 ## **Executive Summary**
 
-MINTS tokens will earn from these Minty evolution of ENS, NFT & DeFi infrastructure:
+MINTS tokens will earn from MintyDAO revenues in novel ENS, NFT & DeFi infrastructure.
+
+MINTS token lockers can acquire these new NFT & ENS domains at their locked MINTS value.
+
+&#x20; 1\. New NFT platform:&#x20;
+
+&#x20;    [Old Problem](https://twitter.com/0xfoobar/status/1563614234390704129): NFT fees are being circumvented, breaking project/holder incentives alignment.
+
+&#x20; [   ](https://twitter.com/0xfoobar/status/1563614234390704129)New Solution: [0xfoobar's Proposal](ens-and-nft/nft-royalties.md) **-** MINTS royalties via Harberger Fees.
+
+&#x20; 2\. New ENS system:
+
+&#x20;    Old Problem: As [Vitalik implied](https://twitter.com/vitalikbuterin/status/1568070721753989120), the old ENS system is un-fixably broken in that it already sold its best domains to squatters, which provide much negative value.
+
+&#x20;   New Solution: [Vitalik's ENS fix-proposal](ens-and-nft/vitaliks-ens-fix-proposal.md).
+
+&#x20;      New Minty domains don't need immediate integration to dapps to have value.&#x20;
+
+&#x20;      Trading value will grow first, as MINT holders get & trade desirable domain names.
+
+&#x20; 3\. [DeFi](defi/defi-3.0.md) dapps: DEX, DAO emissions voting, onchain treasury, & treasury building "[Fetch Bonus](./#fetch-bonus)".
+
+## **Roadmap Status**
 
 **Live Now:**
 
 1\. DEX & DeFi: Minty greatly expanded from a Solidly fork (Andre Cronje's DEX) on ETH.
 
-&#x20; A. Solidly DEX pools with low slippage. Get tokens ahead of APY start via [DeFi 3.0](defi/defi-3.0.md).
+&#x20;  A. Solidly DEX pools with low slippage. Get tokens ahead of APY start via [DeFi 3.0](defi/defi-3.0.md).
 
-&#x20; B. Novel price-increasing onchain treasury-building system with launch-time [Fetch Bonus](defi/fetch-bonus.md).
+&#x20;  B. Novel price-increasing onchain treasury-building system with launch-time [Fetch Bonus](defi/fetch-bonus.md).
 
-&#x20; C. Team starts with 0 tokens. Can't dump or rug. Earns from token sales lock Fetch Bonus sales.
+&#x20;  C. Team starts with 0 tokens. Can't dump or rug. Earns from token sales lock Fetch Bonus sales.
 
-&#x20; D. Earn from emissions voting & bribing. I.e. protocol wars.
+&#x20;  D. Earn from emissions voting & bribing. I.e. protocol wars.
 
-&#x20; E. Minty pools use the same safe & time tested Solidly audited code.
+&#x20;  E. Minty pools use the same safe & time tested Solidly audited code.
 
-&#x20; F. Concentrated APY at 14%/week emissions with 2%/week decay.
+&#x20;  F. Concentrated APY at 14%/week emissions with 2%/week decay.
 
-&#x20; G. 15x Slower inflation than Bitcoin & Curve in the first 6 months.
+&#x20;  G. 15x Slower inflation than Bitcoin & Curve in the first 6 months.
 
-2\. DEX Bets. Augur style bet options, but open to anyone & settled by DEX.
+**Short Term - Launch Targets in Oct, Nov & Dec 2022:**
 
-**Short Term - Target Launch by Nov 2022:**
+2\. DEX Bets. Augur style bet options, but open to anyone & settled by DEX, Oct 2022
 
-3\. [Vitalik's ENS fix-proposal](https://twitter.com/vitalikbuterin/status/1568070721753989120) is to pay recurring demand-based fees to reduce domain squatting.
+3\. NFT royalties via Harberger Tax. First collections scheduled for Nov 2022
 
-4\. NFT royalties problem: fees are being circumvented by SudoSwap AMM / NFT DEX pools.
+3\. [Vitalik's ENS fix-proposal](https://twitter.com/vitalikbuterin/status/1568070721753989120): recurring demand-based fees to reduce domain squatting, Dec 2022
 
-&#x20; [NFT solution](https://twitter.com/0xfoobar/status/1563614234390704129): MINTS royalties via non-circumventable Harberger Fees - proposed by 0xfoobar.
+**Longer Term Roadmap** - after Dec 2022 (DAO can vote on priorities):
 
-**Longer Term Roadmap** - after Nov 2022 (DAO can vote on priorities):
+&#x20;  5\. Treasury voting & bribing. I.e., a much bigger protocol war.
 
-5\. Treasury voting & bribing. I.e., a much bigger protocol war.
+&#x20;  6\. Launchpad with access to Minty's growing partners' user-base.
 
-6\. Launchpad with access to Minty's growing partners' user-base.
+&#x20;  7\. Platform as a Service: provide Fetch & DAO treasury voting for other token projects.
 
-7\. Platform as a Service: provide Fetch & DAO treasury voting for other token projects.
+&#x20;  8\. NFT Gamification - e.g. card games and more, for any NFT collection.
 
-8\. NFT Gamification - e.g. card games and more, for any NFT collection.
+&#x20;  9\. Minty Worlds: protocol wars for game economies - vote with MINTS & earn 3rd party assets.
 
-9\. Minty Worlds: protocol wars for game economies - vote with MINTS & earn 3rd party assets.
-
-10\. Minty Chains: Minty Worlds can move treasuries to their own ZKR L2s, when available.
+&#x20;  10\. Minty Chains: Minty Worlds can move treasuries to their own ZKR L2s, when available.
 
 ## DeFi 3.0
 

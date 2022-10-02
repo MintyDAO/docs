@@ -1,12 +1,12 @@
 ---
-description: The next evolution in ENS, NFTs & DeFi infrastructure.
+description: The next NFT, ENS & DeFi evolution.
 ---
 
 # MintyDAO Overview
 
 ## **Executive Summary**
 
-MINTS tokens will earn from MintyDAO revenues in novel ENS, NFT & DeFi infrastructure.
+MINTS tokens will earn from MintyDAO revenues in novel NFT, ENS & DeFi infrastructure.
 
 MINTS token lockers can acquire these new Minty NFTs & domains at their locked MINTS value.
 

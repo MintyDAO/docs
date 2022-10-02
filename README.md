@@ -6,19 +6,19 @@ description: The next NFT, ENS & DeFi protocol.
 
 ## **Executive Summary**
 
-MINTS tokens will earn from MintyDAO revenues in novel NFT, ENS & DeFi public goods.
+MintyDAO is launching the next NFT, ENS & DeFi protocol stack.
 
-MINTS token lockers can acquire these new Minty NFTs & domains at their locked MINTS value.
+MINTS token lockers will acquire these new Minty NFTs & domains at their locked MINTS value.
 
-1. New NFT platform:&#x20;
-   1. [Old Problem](https://twitter.com/0xfoobar/status/1563614234390704129): NFT fees circumvention breaks project/holder incentives alignment.
-   2. New Solution: [0xfoobar's Proposal](ens-and-nft/nft-royalties.md) **-** MINTS royalties via Harberger Fees.
-2. New Minty domain system (competes with ENS in an open ecosystem):
-   1. Old Problem: as [Vitalik implied](https://twitter.com/vitalikbuterin/status/1568070721753989120), the old ENS system is un-fixably broken in that it already sold its best domains to squatters, which provide much negative value.
-   2. New Solution: [Vitalik's ENS fix-proposal](ens-and-nft/vitaliks-ens-fix-proposal.md).
-      1. New Minty domains don't need immediate integration to dapps to have value.
-      2. Trading value will grow first, as MINT holders get & trade desirable domain names.
-3. [DeFi](defi/defi-3.0.md) dapps: DEX, DAO emissions voting, onchain treasury, & treasury building "[Fetch Bonus](./#fetch-bonus)".
+* New NFT platform:&#x20;
+  * [Old Problem](https://twitter.com/0xfoobar/status/1563614234390704129): NFT fees circumvention breaks project/holder incentives alignment.
+  * New Solution: [0xfoobar's Proposal](ens-and-nft/nft-royalties.md) **-** MINTS royalties via Harberger Fees.
+* New Minty domain system (competes with ENS in an open ecosystem):
+  * Old Problem: as [Vitalik implied](https://twitter.com/vitalikbuterin/status/1568070721753989120), the old ENS system is un-fixably broken in that it already sold its best domains to squatters, which provide much negative value.
+  * New Solution: [Vitalik's ENS fix-proposal](ens-and-nft/vitaliks-ens-fix-proposal.md).
+    * New Minty domains don't need immediate integration to dapps to have value.
+    * Trading value will grow first, as MINT holders get & trade desirable domain names.
+* [DeFi](defi/defi-3.0.md) dapps: DEX, DAO emissions voting, onchain treasury, & treasury building "[Fetch Bonus](./#fetch-bonus)".
 
 ## **Roadmap Status**
 

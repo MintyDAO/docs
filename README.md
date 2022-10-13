@@ -18,7 +18,8 @@ MINTS token lockers will acquire these new Minty NFTs & domains at their locked 
   * Solution: [Vitalik's ENS fix-proposal](ens-and-nft/vitaliks-ens-fix-proposal.md).
     * New Minty domains don't need immediate integration to dapps to have value.
     * Trading value will grow first, as MINT holders get & trade desirable domain names.
-* [DeFi](defi/defi-3.0.md) dapps: DEX, DAO emissions voting, onchain treasury, & treasury building "[Fetch Bonus](./#fetch-bonus)".
+* [DeFi](defi/defi-3.0.md) dapps: DEX, DAO emissions & treasury building & voting via "[Fetch Bonus](./#fetch-bonus)"
+  * ETH collateral USD
 
 ## **Roadmap Status**
 
@@ -61,6 +62,8 @@ MINTS token lockers will acquire these new Minty NFTs & domains at their locked 
 &#x20;  9\. Minty Worlds: protocol wars for game economies - vote with MINTS & earn 3rd party assets.
 
 &#x20;  10\. Minty Chains: Minty Worlds can move treasuries to their own ZKR L2s, when available.
+
+&#x20;  11\. Minty Socials: Social network dapps will have rev share & tokenized content creators.
 
 ## DeFi 3.0
 

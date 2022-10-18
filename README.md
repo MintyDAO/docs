@@ -8,7 +8,7 @@ description: The next NFT, ENS & DeFi protocol.
 
 MintyDAO is launching the next NFT, ENS & DeFi protocol stack.
 
-MINTS token lockers will acquire these new Minty NFTs & domains at their locked MINTS value.
+MINTS token lockers earn from all Minty NFTs & domains transfer and other Minty dapps.
 
 * New NFT platform:&#x20;
   * [Problem](https://twitter.com/0xfoobar/status/1563614234390704129): NFT fees circumvention breaks project/holder incentives alignment.
